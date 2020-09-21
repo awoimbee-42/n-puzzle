@@ -5,7 +5,7 @@ Current is an implementation of [15 puzzle](https://en.wikipedia.org/wiki/15_puz
 We built it because of a deep interest in pathfinding algorithms and its applications. TypeScript was choosen for this project due of its versatility (e.g. data structures) and the execution speed, but mostly because we wanted to bring the visualization at people's fingertips.  
 <br>
 
-<a href="https://igorgarbuz.github.io/n-puzzle/" target="_blank"><strong>> Play around <</strong></a><span>&nbsp; &mdash; &nbsp;</span> UI fits for both mobile and desktop. Start with a guided tour by clicking the red help button on the top. 
+<a href="https://awoimbee-42.github.io/n-puzzle/" target="_blank"><strong>> Play around <</strong></a><span>&nbsp; &mdash; &nbsp;</span> UI fits for both mobile and desktop. Start with a guided tour by clicking the red help button on the top. 
 
 ## Description  of used algorithms:
 
@@ -31,7 +31,7 @@ We built it because of a deep interest in pathfinding algorithms and its applica
 
 ```bash
 # Clone the repository
-git clone https://github.com/igorgarbuz/n-puzzle
+git clone https://github.com/awoimbee-42/n-puzzle
 cd n-puzzle
 
 # To launch it locally you need to either node.js or docker
